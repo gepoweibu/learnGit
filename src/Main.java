@@ -6,6 +6,7 @@ public class Main {
             System.out.println(i+" :Hello World!");
         }
         System.out.println("--------------------");
+        System.out.println("zhongwen乱码测试q");
 
     }
 }
